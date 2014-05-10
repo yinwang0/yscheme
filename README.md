@@ -20,10 +20,7 @@ transformers</a>.
 
 ### Copyright
 
-Copyright (c) 2008-2014 Yin Wang
-
-All rights reserved
-
+Copyright (c) 2008-2014 Yin Wang, All rights reserved
 
 Only the part written by me is here, because I don't have copyright of the rest
 of the code.
