@@ -13,8 +13,9 @@ and then get myself out of it. Sometimes I did better than his compiler,
 sometimes, worse. But eventually I passed all his tests and got an A+.
 
 A notable thing of this compiler is its use of _high-order evaluation contexts_,
-which resulted sometimes in much simpler and shorter code, which is not
-necessarily ease to understand by people who haven't written CPS transformers.
+which resulted sometimes in much simpler and shorter code. The same technique is
+used in <a href="https://github.com/yinwang0/lightsabers/blob/master/cps.ss">CPS
+transformers</a>.
 
 
 ### Copyright
