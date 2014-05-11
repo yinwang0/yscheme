@@ -38,3 +38,15 @@ Scheme</a>
 For details of the compiler framework developed for the course, please refer to
 
 <https://github.com/akeep/nanopass-framework>
+
+
+For more information about CPS transformation, please refer to Andrew Appel's
+book:
+
+<a
+href="http://www.amazon.com/Compiling-Continuations-Andrew-W-Appel/dp/052103311X">Compiling
+with Continuations</a>
+
+and Danvy and Filinski's paper
+
+<a href="http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.46.84">Representing control: a study of the CPS transformation (1992)</a>
